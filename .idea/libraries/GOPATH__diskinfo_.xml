@@ -1,0 +1,44 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;diskinfo&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../minimalserver" />
+      <root url="file://$PROJECT_DIR$/../dtools" />
+      <root url="file://$PROJECT_DIR$/../gosocks" />
+      <root url="file://$PROJECT_DIR$/../shadow_port" />
+      <root url="file://$PROJECT_DIR$/../godownloader" />
+      <root url="file://$PROJECT_DIR$/../WebTop" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../rawmigration" />
+      <root url="file://$PROJECT_DIR$/../dicomsend" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../golang.org/x/mobile/internal/binres/testdata" />
+      <root url="file://$PROJECT_DIR$/../godownloader/.idea" />
+      <root url="file://$PROJECT_DIR$/../dicomsend/.idea" />
+      <root url="file://$PROJECT_DIR$/../golang.org/x/net/html/charset/testdata" />
+      <root url="file://$PROJECT_DIR$/../golang.org/x/net/.git" />
+      <root url="file://$PROJECT_DIR$/../golang.org/x/mobile/bind/testdata" />
+      <root url="file://$PROJECT_DIR$/../github.com/tools/godep/.git" />
+      <root url="file://$PROJECT_DIR$/../golang.org/x/net/http2/testdata" />
+      <root url="file://$PROJECT_DIR$/../shadow_port/.git" />
+      <root url="file://$PROJECT_DIR$/../rawmigration/.git" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../rawmigration/.idea" />
+      <root url="file://$PROJECT_DIR$/../minimalserver/.idea" />
+      <root url="file://$PROJECT_DIR$/../shadow_port/.idea" />
+      <root url="file://$PROJECT_DIR$/../WebTop/.git" />
+      <root url="file://$PROJECT_DIR$/../gosocks/.git" />
+      <root url="file://$PROJECT_DIR$/../gosocks/.idea" />
+      <root url="file://$PROJECT_DIR$/../golang.org/x/net/html/testdata" />
+      <root url="file://$PROJECT_DIR$/../golang.org/x/mobile/testdata" />
+      <root url="file://$PROJECT_DIR$/../github.com/tools/godep/Godeps/_workspace" />
+      <root url="file://$PROJECT_DIR$/../golang.org/x/mobile/.git" />
+      <root url="file://$PROJECT_DIR$/../dtools/.git" />
+      <root url="file://$PROJECT_DIR$/../dicomsend/.git" />
+      <root url="file://$PROJECT_DIR$/../godownloader/.git" />
+    </excluded>
+  </library>
+</component>
